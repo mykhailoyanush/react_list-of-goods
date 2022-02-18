@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,cAAe,CAEf,WACE,eAAgB,CACjB,aAGC,sBAAuB,CACxB,aAGC,cAAe","file":"main.b57863aa.chunk.css","sourcesContent":[".App {\n  font-size: 30px;\n\n  &__list {\n    list-style: none;\n  }\n\n  &__active {\n    background-color: green;\n  }\n\n  &__button {\n    font-size: 24px;\n  }\n}\n"]}
